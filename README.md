@@ -1,0 +1,1 @@
+# CriTer-VSCode-Ghost-Type-Theme
